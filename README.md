@@ -1,1 +1,1 @@
-This repository is for private profile sites using ChatGPT.
+This repository is for private profile site using ChatGPT.
